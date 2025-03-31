@@ -1,0 +1,13 @@
+# Project related stuff
+config.py
+credentials.json
+strava_client/activities.csv
+strava_client/stream_data_long_format_df.csv
+strava_client/activity_csv/*.csv
+strava_client/activity_gpx/*.gpx
+strava_client/Strava Export/
+strava_client/src/Output/strava-activities-heatmap.html
+# Python related stuff
+__pycache__
+# Mac related stuff
+.DS_Store
