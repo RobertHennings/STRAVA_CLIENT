@@ -15,7 +15,7 @@ with open("requirements.txt", encoding="utf-8") as f:
     install_requirements = f.read().splitlines()
 
 setup(
-    name="ecbdatainfo",
+    name="strava_client",
     version=about['__version__'],
     description=about['__about__'],
     long_description=long_description,
