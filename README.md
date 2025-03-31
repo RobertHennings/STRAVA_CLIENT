@@ -30,7 +30,7 @@ The following quick guide shows to get there:
 - 1. Visit: https://www.strava.com/settings/api
 - 2. Create a new personal API and obtain the following parameters:
      <p align="center">
-     <img src="https://raw.githubusercontent.com/RobertHennings/Strava_CLIENT/strava_client/src/Installation/StravaPersonal_API_View.png" 
+     <img src="https://raw.githubusercontent.com/RobertHennings/STRAVA_CLIENT/refs/heads/master/strava_client/src/Installation/StravaPersonal_API_View.png" 
           width="800"/>
      </p>
 - 3. Clone the repository or download the client via `pip` or `pip3`
@@ -609,7 +609,7 @@ pip3 list
 Examples of the produced graphs (as .png and as .pdf):
 <br>PNG:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RobertHennings/Strava_CLIENT/strava_client/src/Output/strava-activities-heatmap.png" 
+  <img src="https://raw.githubusercontent.com/RobertHennings/STRAVA_CLIENT/refs/heads/master/strava_client/src/Output/strava-activities-heatmap.png" 
        width="800"/>
 </p>
 
