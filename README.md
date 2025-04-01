@@ -24,7 +24,7 @@ Since especially the authorization imposed a little challenge, the [official doc
 `pip install strava_client`
 <br>or:</br>
 `pip3 install strava_client`
-Via git clone: 'git clone https://github.com/RobertHennings/Strava_CLIENT'
+<br>Via git clone: `git clone https://github.com/RobertHennings/Strava_CLIENT`
 # Setting up the personal Strava API in the Strava (Web) platform and obtain client id and client secret
 In order to interact with the Strava API endpoint, the perosnal API has to be set up in the Web platform of Strava to receive the needed authorization parameters.
 The following quick guide shows to get there:
@@ -616,5 +616,23 @@ Examples of the produced graphs (as .png and as .pdf):
 
 Some further examples on how to run and set up the client in a scripting file can be found
 in the `tests` folder in the `local.py` file.
+## Contributing
+### Commit Style
+```zsh
+API: an (incompatible) API change
+BENCH: changes to the benchmark suite
+BLD: change related to building numpy
+BUG: bug fix
+DEP: deprecate something, or remove a deprecated object
+DEV: development tool or utility
+DOC: documentation
+ENH: enhancement
+MAINT: maintenance commit (refactoring, typos, etc.)
+REV: revert an earlier commit
+STY: style fix (whitespace, PEP8)
+TST: addition or modification of tests
+REL: related to releasing numpy
+```
+
 ## Author
 Robert Hennings, 2025
