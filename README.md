@@ -24,6 +24,7 @@ Since especially the authorization imposed a little challenge, the [official doc
 `pip install strava_client`
 <br>or:</br>
 `pip3 install strava_client`
+Via git clone: 'git clone https://github.com/RobertHennings/Strava_CLIENT'
 # Setting up the personal Strava API in the Strava (Web) platform and obtain client id and client secret
 In order to interact with the Strava API endpoint, the perosnal API has to be set up in the Web platform of Strava to receive the needed authorization parameters.
 The following quick guide shows to get there:
